@@ -53,8 +53,7 @@ header {
 /* HOME PAGE STYLES-----------------------------*/
 .mainImg {
   background: linear-gradient(rgba(0, 0, 0, 0.3)),
-    url(/profolio-page00/images/20220505_vancouver_from_sky03.jpg) no-repeat
-      center -30px;
+    url(/images/20220505_vancouver_from_sky03.jpg) no-repeat center;
   background-size: cover;
   height: 100vh;
   box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.3);
@@ -80,14 +79,14 @@ footer {
     margin: auto;
     width: 100px;
     .gh {
-      background-image: url(/profolio-page00/images/gh.png);
+      background-image: url(/images/gh.png);
       background-size: contain;
       width: 30px;
       height: 30px;
       margin: 10px;
     }
     .cp {
-      background-image: url(/profolio-page00/images/cp.png);
+      background-image: url(/images/cp.png);
       background-size: contain;
       width: 30px;
       height: 30px;
@@ -107,7 +106,7 @@ footer {
     align-items: center;
     .img-about {
       background: linear-gradient(#d4d1d14b),
-        url(/profolio-page00/images/20220505_van_park.JPG) no-repeat center;
+        url(/images/20220505_van_park.JPG) no-repeat center;
       background-size: cover;
       height: 395px;
       width: 650px;
