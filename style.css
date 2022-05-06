@@ -141,7 +141,7 @@ footer .logoBar .cp {
 
 .about-me .wrapper-main .img-about {
   background: -webkit-gradient(linear, left top, left bottom, from(#d4d1d14b)), url(/assets/images/20220505_van_park.JPG) no-repeat center;
-  background: linear-gradient(#d4d1d14b), url(/images/20220505_van_park.JPG) no-repeat center;
+  background: linear-gradient(#d4d1d14b), url(/assets/images/20220505_van_park.JPG) no-repeat center;
   background-size: cover;
   height: 395px;
   width: 650px;
