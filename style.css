@@ -68,7 +68,7 @@ header nav a {
   margin-left: 30px;
 }
 
-/* HOME PAGE STYLES-----------------------------*/
+/* HOME PAGE STYLES----------------------------*/
 .mainImg {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3))), url(/images/20220505_vancouver_from_sky03.jpg) no-repeat center;
   background: linear-gradient(rgba(0, 0, 0, 0.3)), url(/images/20220505_vancouver_from_sky03.jpg) no-repeat center;
