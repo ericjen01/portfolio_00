@@ -70,8 +70,8 @@ header nav a {
 
 /* HOME PAGE STYLES----------------------------*/
 .mainImg {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3))), url(/assets/images/20220505_vancouver_from_sky03.jpg) no-repeat center;
-  background: linear-gradient(rgba(0, 0, 0, 0.3)), url(/assets/images/20220505_vancouver_from_sky03.jpg) no-repeat center;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3))), url(https://ericjen01.github.io/portfolio_00/assets/images/20220505_vancouver_from_sky03.jpg) no-repeat center;
+  background: linear-gradient(rgba(0, 0, 0, 0.3)), url(https://ericjen01.github.io/portfolio_00/assets/images/20220505_vancouver_from_sky03.jpg) no-repeat center;
   background-size: cover;
   height: 100vh;
   -webkit-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.3);
@@ -105,7 +105,7 @@ footer .logoBar {
 }
 
 footer .logoBar .gh {
-  background-image: url(/assets/images/gh.png);
+  background-image: url(https://ericjen01.github.io/portfolio_00/assets/images/gh.png);
   background-size: contain;
   width: 30px;
   height: 30px;
@@ -113,7 +113,7 @@ footer .logoBar .gh {
 }
 
 footer .logoBar .cp {
-  background-image: url(/assets/images/cp.png);
+  background-image: url(https://ericjen01.github.io/portfolio_00/assets/images/cp.png);
   background-size: contain;
   width: 30px;
   height: 30px;
@@ -140,8 +140,8 @@ footer .logoBar .cp {
 }
 
 .about-me .wrapper-main .img-about {
-  background: -webkit-gradient(linear, left top, left bottom, from(#d4d1d14b)), url(/assets/images/20220505_van_park.JPG) no-repeat center;
-  background: linear-gradient(#d4d1d14b), url(/assets/images/20220505_van_park.JPG) no-repeat center;
+  background: -webkit-gradient(linear, left top, left bottom, from(#d4d1d14b)), url(https://ericjen01.github.io/portfolio_00/assets/images/20220505_van_park.JPG) no-repeat center;
+  background: linear-gradient(#d4d1d14b), url(https://ericjen01.github.io/portfolio_00/assets/images/20220505_van_park.JPG) no-repeat center;
   background-size: cover;
   height: 395px;
   width: 650px;
